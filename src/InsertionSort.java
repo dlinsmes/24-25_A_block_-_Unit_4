@@ -50,7 +50,7 @@ public class InsertionSort {
 
 
     //**probably** what you do with cards in your hand:
-    //moving from left to right, take the next value
+    //moving from left to right, take the next value.
     //and put it into sorted position to the left;
     //if needed, move higher values up by one position
     public static void insertionSort(int [] numbers) {
